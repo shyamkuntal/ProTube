@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AppContext } from './context/contextApi'
 import Header from "./Components/Header";
 import Feed from "./Components/Feed";
-import SearchResults from "./Components/SearchResults";
+import SearchResults from "./Components/SearchResult";
 import VideoDetails from "./Components/VideoDetails";
 
 const App = () => {
